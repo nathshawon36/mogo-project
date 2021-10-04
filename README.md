@@ -1,1 +1,1 @@
-# mogo(psd to html project)
+# kubb (psd to html project)
