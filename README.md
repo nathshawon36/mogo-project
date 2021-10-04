@@ -1,3 +1,4 @@
-# Kubb (psd to html project)
-#### Smooth scroll, preloader and exciting functions
-#### Not responsive
+# Mogo (psd to html project)
+##### Not Responsive
+##### Explore various functions
+##### Has an display error
